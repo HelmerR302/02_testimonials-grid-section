@@ -9,7 +9,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ## Screenshot
 
-![Preview]
+![Preview](https://github.com/HelmerR302/02_testimonials-grid-section/blob/main/Desktop%20preview.png?raw=true)
 
 ## Live link
 
